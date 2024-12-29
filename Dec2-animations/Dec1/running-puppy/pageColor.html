@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title></title>
+<meta name="" content="">
+
+<script type="text/javascript">
+//create colors Array
+
+var pageColors = {
+	//ChocolateOrder.html
+	"green":"green", 
+	 "red":"red"
+}	
+
+//define a window.onload function
+
+window.onload = function changePageColor(){
+var butOptions = document.getElementsByName("pageColor");
+//use loop to cycle through color options
+
+ for (var i =0; i<2; i++){
+ 	butOptions[i].onclick = function()
+ 	{
+ 		//change page color based on selected option
+ 		document.body.style.backgroundColor=pageColors[this.value];
+ 	}
+ }
+	
+	
+}	
+	
+	
+</script>
+</head>
+<body>
+
+<!--create a form with two radio buttons -->
+<h1>Choose Page Color</h1>
+<form>
+	<input type="radio" name="pageColor" value="green">Green <br>
+	<input type="radio" name="pageColor" value="red">Red <br>
+	
+</form>
+
+
+</body>
+</html>

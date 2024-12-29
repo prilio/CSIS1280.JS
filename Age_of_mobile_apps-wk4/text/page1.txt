@@ -1,0 +1,8 @@
+The Age of Mobile Apps
+A mobile application, also referred to as a mobile app or simply an app, is a computer program
+or software application designed to run on a mobile device such as a phone, tablet, or watch. 
+  
+Apps were originally intended for productivity assistance such as email, calendar, and contact databases, but the public demand for apps caused rapid expansion into other areas such as mobile games, factory automation, GPS and location-based services, order-tracking, and ticket purchases, so that there are now millions of apps available.
+
+Here is a quote from TechAhead website:
+The word ‘App’ was voted to be the word of the year by American Dialect Society in 2010. This shows how apps became popular after the launch of the App Store. Apps have made everything just a tap away. We are dependent on apps to communicate to one another, to keep everything organized and for entertainment too. Moreover, there are number of businesses based on the social media apps.

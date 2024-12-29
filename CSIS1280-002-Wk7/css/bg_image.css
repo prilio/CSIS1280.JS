@@ -1,0 +1,9 @@
+/*Background Image CSS */
+
+body {
+	background-image: url("../images/bd_image.jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	
+}

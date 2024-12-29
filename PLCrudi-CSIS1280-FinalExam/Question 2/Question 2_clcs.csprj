@@ -1,0 +1,47 @@
+
+<codestructure version="1.11.1">
+<phptree>
+</phptree>
+<jstree>
+<treenode node="ClearInputsOutupts;JS:Function Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f0;45;1;48;;;;vpos;;v;;aObject_;;c;;r;;d30,45;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+<treenode node="output;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f5;46;11;46;;;;vposHTMLElement;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+<treenode node="innerHTML;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f64;47;73;47;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="calculateBMI;JS:Function Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f0;28;1;43;;;;vpos;;v;;aObject_;;c;;r;;d23,28;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+<treenode node="bmi;JS:Function Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f1;29;4;29;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;lweight;;pmeters;;pmeters;;p;;x;;x;;x">
+<treenode node="innerHTML;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f11;32;20;32;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+<treenode node="innerHTML;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f11;35;20;35;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+<treenode node="innerHTML;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f11;38;20;38;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+<treenode node="innerHTML;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f11;41;20;41;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+</treenode>
+</treenode>
+</treenode>
+<treenode node="meters;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f16;29;22;29;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="weight;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f8;29;14;29;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+</treenode>
+</treenode>
+<treenode node="arrHealthyLivingTips;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f6;3;26;3;;;;vposArray;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="bmi;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f4;19;7;19;;;;vposdocument.getElementById.value;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="category;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f4;20;12;20;;;;vposHTMLElement;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="heighF;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f4;21;10;21;;;;vposdocument.getElementById.value;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="heighI;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f4;22;10;22;;;;vposdocument.getElementById.value;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="meters;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f4;25;10;25;;;;vpostotalFeet;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="totalFeet;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f4;24;13;24;;;;vpos;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="weight;JS:JS Var Name;C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js;f4;23;10;23;;;;vposdocument.getElementById.value;;v;;a;;r;;d-1,-1;;b0,3;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>

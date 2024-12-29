@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\Question 2.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/Users/300358805/Downloads/CSIS1280-FinalExam/CSIS1280-FinalExam/Question 2]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/Users/300358805/Downloads/CSIS1280-FinalExam/CSIS1280-FinalExam/Question 2]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0">
+  <errfile name="C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.CSIS1280FinalExam-Qn2.html">
+   <error val="22;19;35;19;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\css\style-qn2.css" crc="1660663953555"/>
+  <file name="C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.FinalExam-Qn2.js" crc="1660670960085"/>
+  <file name="C:\Users\300358805\Downloads\CSIS1280-FinalExam\CSIS1280-FinalExam\Question 2\PLCrudi.CSIS1280FinalExam-Qn2.html" crc="1660670960076"/>
+ </filescache>
+</project>

@@ -1,0 +1,23 @@
+/* Media Queries CSS */
+/*for smart phones/handhelds: up to 868px */
+@media only screen and (max-width:868px){
+	body {
+		background-color: #55ffff;
+	}
+	
+}
+
+/*for tablets/laptops: from 869px up to 1280px */
+@media only screen and (min-width:869px){
+body{
+	background-color: #55ff00;
+}
+}
+
+/*for Pc SCREENS: FROM 1281PX */
+@media only screen and (min-width:1281px){
+body {
+	background-color: #55aaff; 
+}
+}
+

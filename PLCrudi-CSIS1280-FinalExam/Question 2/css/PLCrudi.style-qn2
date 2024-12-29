@@ -1,0 +1,27 @@
+	/* CSS File for Question 2 */
+			body{
+				background-color: #d2d8b7;
+				font-size: 14pt;
+				margin-left: 50px;
+			}
+			p{
+				font-weight: bold;
+			}
+			span {
+				color:navy;
+			}
+			#col1 {
+				float:left;
+				width:45%;
+			}
+			#col2 {
+				float:right;
+				width:45%;
+			}
+			h2 {
+				color: navy;
+			}
+			#col2 > p {
+				color: darkblue;
+			}
+		

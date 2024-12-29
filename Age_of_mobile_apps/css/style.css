@@ -1,0 +1,63 @@
+/* CSS File */
+/* definition terms bold */
+dt {
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+/** style anchors */
+a {
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+}
+
+/** style navbar */
+
+nav {
+	background-color: orange;
+	padding-top:5px;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
+
+/* logo image */
+#logo {
+	border-radius: 50%;
+	height:28px;
+	width:31px;
+}
+
+#img2 {
+	float:left;
+	margin-right: 35px;
+	width:15%;
+	height:auto;
+}
+
+/* background image */
+body {
+	background-image: url('../images/bg_image7.png');
+}
+
+/*article */
+article {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+/* section and aside */
+section {
+	float: left;
+	width:70%;
+	
+}
+aside {
+	float: right;
+	width:25%;
+	padding-left:10px;
+}
+
+
+
+

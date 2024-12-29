@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>image map</title>
+
+<style>
+	.class {
+		float: right;
+		margin: 50px;
+		padding: 50px;
+	}
+	#map{
+		float:left;
+		margin-right: 50px;
+	}
+	iframe {
+		 background-color: #aaffff;
+	}
+	
+	body {
+		padding: 20px;
+		margin: 20px;
+		background-color: cyan;
+	}
+</style>
+</head>
+<body>
+<h1> Image Map</h1>
+
+
+<hr> <br>
+<h2>B.C. Regional Health Authorities</h2>
+<base target="_blank">
+<iframe class="cell" name="myframe" frameBorder="0"
+  width="640" height="395" marginwidth="20"
+  src="content/bc_health_info.html" title="BC Health Authorities"></iframe>
+
+<section id="map">
+	<img src="images/BC-Map.png" alt="BC Map" usemap="#bc_health">
+       <map name="bc_health">
+           <area shape="poly" coords="322,370,303,337,283,326,228,296,228,245,248,247,254,271,321,245,349,263,370,256,419,298,450,351" target="myframe" href="content/fh_content.html">
+           <area shape="poly" coords="277,370,279,340,302,342,314,367" target="myframe" href="content/ih_content.html">
+           <area shape="poly" coords="108,276,74,204,129,185,140,139,108,119,57,23,25,39,7,7,305,19,326,223,359,253,317,245,258,262,245,240,190,238,174,253,146,235" target="myframe" href="content/nh_content.html"> 
+           <area shape="poly" coords="274,372,232,340,246,317,276,320,287,333,275,339" target="myframe" href="content/vch_content.html">
+           <area shape="poly" coords="176,303,148,252,151,231,180,255,188,245,226,245,226,280,212,276,206,296" target="myframe" href="content/vch_content.html">
+           <area shape="poly" coords="259,392,215,374,166,317,216,289,247,313,226,343,263,381" target="myframe" href="content/vih_content.html">	
+    </map>
+	
+</section>
+<br><br>
+<h2>Audio Content</h2>
+<audio src="audio/inspiring-cinematic-background-music-for-videos-5717.mp3" autoplay loop controls></audio> 
+
+<br><br>
+<h2>Video Content</h2>
+<video src="video/slomoflame_512kb.mp4" width="350" height="248" preload="metadata" controls poster="video/__ia_thumb.jpg"></video> 
+
+<br><br>
+<h2>Linking to External Videos (e.g., Youtube)</h2>
+<!--<iframe width="800" height="600" src="https://www.youtube.com/embed/1Rs2ND1ryYc"></iframe> -->
+
+<iframe width="1237" height="696" src="https://www.youtube.com/embed/1Rs2ND1ryYc" title="CSS Tutorial - Zero to Hero (Complete Course)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><br>
+	</body>
+</html>

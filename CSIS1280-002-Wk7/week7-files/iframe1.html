@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<title></title>
+		<style>
+		body {
+			margin-left: 50px;
+			width: 650px;
+		}
+			#thumbnails {
+				float: left;
+			}
+			#iframe {
+				float: right;
+				margin-top: 15px;
+			}
+			ul {
+				list-style-type: none;
+				vertical-align: text-top;
+			}
+			#bird_name {
+				position: relative;
+				width: 150px;
+			}
+			h3{
+				align: center;
+			}
+			.first_group {
+				background-color:#FFF9C4;
+			}
+			.sec_group {
+				background-color:yellow;
+			}
+		</style>
+	</head>
+	<body>
+	<h1>Iframe</h1>
+	<section id="thumbnails">
+	<ul>
+		<li><a href="images/kingfisher.png" name="Kingfisher" target="full-size">
+		<img src="images/kingfisher_thumb.png" alt="kingfisher">
+  			</a>
+  		</li>
+		<li><a href="images/lorikeet.png" name="Lorikeet" target="full-size">
+		<img src="images/lorikeet_thumb.png" alt="lorikeet">
+  			</a>
+  		</li>
+		<li><a href="images/parrot.png" name="Parrot" target="full-size">
+  			<img src="images/parrot_thumb.png" alt="parrot"></a>
+  		</li>
+		<li><a href="images/robin.png" name="Robin" target="full-size">
+		<img src="images/robin_thumb.png" alt="robin">
+  			</a>
+  		</li>
+		<li><a href="images/seagull.png" name="Seagull" target="full-size">
+		<img src="images/seagull_thumb.png" alt="seagull">
+  			</a>
+  		</li>
+		<li><a href="images/sparrow.png" name="Sparrow" target="full-size"><img src="images/sparrow_thumbnail.png" alt="sparrow">
+ 			 </a>
+   		</li>
+		<li><a href="images/yellow_macaw.png" name="Yellow macaw" target="full-size">
+		<img src="images/yellow_macaw_thumb.png" alt="yellow macaw">
+ 			 </a>
+   		</li>
+  </ul>
+  </section>
+  <section id="iframe">
+	<iframe class="cell" name="full-size"
+  width="510" height="340"
+  src="images/kingfisher.png"></iframe>
+<br>
+
+<h3 id="bird_name">Kingfisher</h3>
+	</section>	
+	</body>
+
+</html>

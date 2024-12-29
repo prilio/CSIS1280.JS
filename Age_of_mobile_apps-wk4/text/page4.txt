@@ -1,0 +1,11 @@
+Mobile Apps Glossary
+Android
+Android is Google’s mobile operating system.
+iOS
+iOS is Apple’s official mobile operating system and is supported on all iPhone, iPod and iPad devices.
+Mobile Apps
+Mobile apps, as opposed to browser apps, are developed specifically and exclusively for use in mobile devices.
+Native Apps
+A native application (native app) is an application program that has been developed for use on a particular platform or device, e.g., iOS (Apple’s mobile operating system), and Android (Google’s mobile operating system).
+Hybrid Apps
+Hybrid apps leverage native technology for each platform (iOS and Android) but include web views (HTML) content within the app. This is a useful way for some companies to develop a single app that works on both Android and iOS.

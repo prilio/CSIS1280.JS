@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Running Puppy</title>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+
+<!-- JAVASCRIPT ANIMATION APP -->
+<script type ="text/javascript">
+//begin by load and caching the images
+//create an images Array
+var puppies = new Array(6); //six puppy images
+
+//define variable for current Image
+var curPuppy = 0;
+
+//use a for loop to load/cache the images
+ for (var i=0; i <6; i++)
+ { //load the images
+ 
+ puppies[i] = new Image();
+ puppies[i].src="Images/puppy" +i + ".gif";
+  	
+ }
+ 
+ //create function to animate images
+ function runningPuppy(){
+ 	//check whether it is the last Image
+ 	if (curPuppy==5) //if at last image
+ 		{curPuppy =0;} //go back to the first image
+ 	else {
+ 		curPuppy++; //go through the images
+ 	}	
+ 	//refeence images in HTML document
+ 	document.getElementsByTagName("img")[0].src = puppies[curPuppy].src;	
+ }
+ 
+	
+	
+	
+</script>
+
+
+</head>
+<!-- INSERT setInterval method in the opening <body> tag -->
+<body onload="setInterval('runningPuppy()', 50);">
+<h1>Running Puppy</h1>
+<p><img src="Images/puppy0.gif" height="60" width="97" alt="Image of a puppy." /></p>
+</body>
+</html>

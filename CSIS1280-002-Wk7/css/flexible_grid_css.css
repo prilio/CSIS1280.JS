@@ -1,0 +1,57 @@
+/*n css flexible grid */
+
+.container {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 20px;
+}
+
+/* size and color grid columns */
+.container > div {
+	background-color: #00ffff;
+	height: 200px;
+}
+
+.container1 {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-areas: "header header header"
+	"aside section section";
+	gap: 20px;
+}
+
+.header {
+	grid-area: header;
+}
+.aside {
+	grid-area: aside;
+}
+
+.section {
+	grid-area: section;
+}
+
+/* size and color grid columns */
+.container1 > div {
+	background-color: #00ffff;
+	height: 200px;
+}
+
+
+/* Media Query */
+@media only screen and (max-width: 869px)
+{
+	.container1{
+		grid-template-areas:"header"
+							 "aside"
+							 "section";
+	}
+}
+
+
+
+
+
+
+
+

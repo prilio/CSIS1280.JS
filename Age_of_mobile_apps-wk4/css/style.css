@@ -1,0 +1,128 @@
+/* CSS File */
+/* definition terms bold */
+dt {
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+/** style anchors */
+a {
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+}
+
+/* Hovering over anchor */
+a:hover {
+	background-color: yellow;
+	padding-top:5px;
+	padding-bottom: 6px;
+	border: 1px solid black;
+}
+
+/* active link */
+a:active {
+	background-color: red;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 6px;
+	border: 1px solid black;
+}
+
+/** style navbar */
+
+nav {
+	background-color: orange;
+	padding-top:5px;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
+
+/* logo image */
+#logo {
+	border-radius: 50%;
+	height:28px;
+	width:31px;
+}
+
+#img2 {
+	float:left;
+	margin-right: 35px;
+	width:15%;
+	height:auto;
+}
+
+/* background image */
+body {
+	background-image: url('../images/bg_image7.png');
+}
+
+/*article */
+article {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+/* section and aside */
+/*section {
+	float: left;
+	width:60%;
+	margin-right: 25px;
+	
+}*/
+
+.secs1 {
+	float: left;
+	width:30%; 
+	margin-right: 25px;
+}
+aside {
+	float: right;
+	width:30%;
+	padding-left:25px;
+	background-color: #aaaa7f;
+	
+}
+
+/* Pseudo Eelment Selector */
+
+p::first-letter {
+	font-size: x-large;
+	font-weight: bold;
+}
+
+/* Blockquote -- italics */
+blockquote {
+	font-style: italic;
+}
+
+/* table */
+table, th, td {
+	border:1px solid black;
+	
+	/* remove double lines using border-collapse property */ 
+	border-collapse: collapse;
+}
+th, td {
+	/*padding: 10px; */
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+th {
+	text-align: left;
+}
+caption {
+	font-size: larger;
+	font-weight: bold;
+}
+
+/* variagated table rows -use pseudo class selector */
+tr:nth-child(even){
+	background-color: #aaaa7f;
+}
+
+
+
+
+

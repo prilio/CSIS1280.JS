@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\PLCrudiCSIS1280-AS1.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/D:/Douglas College/Summer 2022/1280 - Multimedia Web Development - 001/PLCrudiCSIS1280-AS1]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/D:/Douglas College/Summer 2022/1280 - Multimedia Web Development - 001/PLCrudiCSIS1280-AS1]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\style.css"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\index.html"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\family.html"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\creativity.html"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\career.html"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\life.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\style.css" crc="1654899989215"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\life.html" crc="1654896421643"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\index.html" crc="1654899689462"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\family.html" crc="1654896481679"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\creativity.html" crc="1654898928094"/>
+  <file name="D:\Douglas College\Summer 2022\1280 - Multimedia Web Development - 001\PLCrudiCSIS1280-AS1\career.html" crc="1654898928098"/>
+ </filescache>
+</project>

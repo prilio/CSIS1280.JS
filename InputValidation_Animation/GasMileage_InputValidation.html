@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Gas Mileage</title>
+		<style>
+body{
+	background-color: #bffdee;
+}	
+#err{
+	color:red;
+	font-style: italic;
+	font-weight: bold;
+}
+</style>
+	</head>
+	<body>
+	<h1>Gas Mileage Calculator</h1>
+<hr />
+<!-- Para to display error messages-->
+
+<p id="err"></p>
+
+<form action="" name="mileageLog">
+<p>Starting Mileage: &nbsp;<input type="text" name="startingMiles" value=""  /></p>
+<p>Ending Mileage: &nbsp;&nbsp;<input type="text" name="endingMiles" value="" /></p>
+<p>Gallons Used: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" name="gallonsUsed" value=""/></p>
+<p>Miles Per Gallon: <input type="text" name="mpg" value="0" /></p>
+
+<input type="reset" name="reset" id="reset" value="Reset" /> &nbsp;
+<input type="button" name="submit" id="submit" value="Submit" onclick="computeMPG();"/>
+
+</form>
+
+
+<script src="scripts/input_validation.js"></script>	
+		
+	</body>
+</html>

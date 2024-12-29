@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+	<h1>JavaScript Objects</h1>
+	<h2>Dcelaring and getting values</h2>
+	<p id="display"></p>
+	<!-- Define object called student -->
+	<script>
+		//JS objects have name:value pairs
+		let student = {fName:"Peter",lName:"Adams",year:"Senior", gpa:3.5, onProbation:false,
+		fullName: function(){return this.fName + " " +this.lName}};
+		
+		//display student's full name;
+		/*can display values of the object using: 
+		1) .dot notation: obj.propName
+		2) subscript notation: obj['proName']
+		*/
+		//concatenate first and last names to create full name
+		let fullname = student.fName + " " +student["lName"];
+		console.log(fullname)
+		document.getElementById("display").innerHTML = student.fullName();
+	</script>
+		
+	</body>
+</html>
